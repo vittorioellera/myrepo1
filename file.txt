@@ -1,4 +1,5 @@
 Line1nLine2 > file.txt
 echo -e Line1
-Line2
 line3
+Cosuccia
+
